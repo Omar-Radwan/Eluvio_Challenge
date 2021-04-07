@@ -1,0 +1,3 @@
+/mnt/c/0lnk/workspace/clion_workspace/Eluvio_Challenge/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/0lnk/workspace/clion_workspace/Eluvio_Challenge/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/0lnk/workspace/clion_workspace/Eluvio_Challenge/cmake-build-debug/CMakeFiles/Eluvio_Challenge.dir
